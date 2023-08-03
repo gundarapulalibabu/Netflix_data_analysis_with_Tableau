@@ -12,7 +12,8 @@ the project aims to gain insights into the content available on Netflix , its Di
 The Tableau dashboard develop this project provides an interactive visualizations of the analyzed data. It allows you to explore various aspects of Netflix 
 content such as genres, Release Dates , Rating and more  . You can access the tableau dashboard at the following link :
 
-Tableau Dashboard: 
+Tableau Dashboard: https://public.tableau.com/app/profile/prem.mandal/viz/NetflixDataAnalysis_16896569396880/NetflixDataAnalysis
+Visit my Tableau Public and explore and learn :  https://public.tableau.com/app/profile/prem.mandal
 
 
 ## Netflix Data Analysis with Tableau
